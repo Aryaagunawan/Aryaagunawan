@@ -16,14 +16,12 @@
 
 <br>
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-![](https://github-readme-stats.vercel.app/api?username=Aryaagunawan&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aryaagunawan&theme=catppuccin_mocha&hide_border=false)<br/>
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats: </b>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aryaagunawan&theme=catppuccin_mocha&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryaagunawan&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aryaagunawan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
